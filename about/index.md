@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://atom888.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>A little about me.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hello! I am Adam Dipinto and this is my small corner of the internet.
 
-## Preview
+I am passionate about building things for the [web](https://atom888.github.io/projects/), learning new technologies and having some fun along the way! Currently I devote most of my time to frontend side of things, but I am not afraid to dig into backend or any other tech to get the job done.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I consider myself a life long learner because I don't know a whole lot, but that's not a bad thing because I find it keeps me curious and allows me to try and look at things with a different perspective.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+ This website contains my journey on the web in the form of my [projects]((https://atom888.github.io/projects/)), and [blog](https://atom888.github.io/posts/).
